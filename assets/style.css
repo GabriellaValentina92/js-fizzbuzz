@@ -30,5 +30,17 @@ h1{
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: rgb(7, 121, 83);
+    background-color: rgb(73, 223, 173);
+}
+
+.square.fizz{
+    background-color: rgb(46, 219, 37);
+}
+
+.square.buzz{
+    background-color: rgb(233, 182, 16);
+}
+
+.square.fizzbuzz{
+    background-color: rgba(246, 88, 109, 0.837);
 }
