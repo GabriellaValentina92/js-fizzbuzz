@@ -17,6 +17,7 @@ h1{
 
 .container-grid{
     display: flex;
+    flex-wrap: wrap;
     max-width: 1100px;
     margin-inline: auto;
     padding-inline: 1rem;
@@ -25,6 +26,7 @@ h1{
 .square{
     width: 4rem;
     height: 4rem;
+    margin: 0.5rem;
     display: flex;
     justify-content: center;
     align-items: center;
